@@ -7,7 +7,7 @@ A sophisticated AI-powered financial analysis tool that combines web search capa
 
 - Web Search Agent: Scours the internet for relevant financial information and news
 - Finance Agent: Analyzes financial data and provides market insights
-- Combined capabilities through a unified multi-AI agent interface
+- Combined capabilities through a unified multi-AI agent interface   
 
 
 ## Real-Time Financial Analysis
